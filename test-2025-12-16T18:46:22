@@ -1,0 +1,30 @@
+# Test File Metadata
+
+**Creation Timestamp:** 2025-12-16T18:46:22 UTC
+
+**Purpose:** Workflow validation - Testing Claude Code session manager collaboration workflow in real mode (non-mock)
+
+**Test Type:** Real mode, non-mock session execution
+
+**Associated JIRA Ticket:** AAP-60800
+
+**Epic Reference:** AAP-59038
+
+**Description:**
+This test file validates the Claude Code session manager's ability to:
+- Create files with timestamped naming conventions
+- Maintain session context across operations
+- Integrate with git version control
+- Follow repository patterns and standards
+- Execute acceptance criteria verification
+
+**Naming Pattern:** test-<timestamp>
+- Timestamp format: ISO 8601 (YYYY-MM-DDTHH:MM:SS UTC)
+- Location: Repository root directory
+
+**Session Information:**
+- Branch: aap-60800-add-timestamped-test-file-to-repository-root
+- Sprint: SaaS Sprint 2025-50
+- Assignee: Dominique Vernier
+
+This file demonstrates successful completion of the workflow validation requirements.
